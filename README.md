@@ -16,6 +16,9 @@ It serves as a minimalistic utility for quick availability checks of standard se
 * Python 3.x
 * Built-in libraries: `socket`, `sys`, `time`
 
+## Disclaimer
+"This tool was created strictly for educational purposes and for testing your own network infrastructure (e.g., a homelab environment). Never scan networks, devices, or servers without explicit authorization from the owner. The author assumes no responsibility or liability for any illegal or malicious use of this script."
+
 ## Usage
 
 **Option 1: Running via Python interpreter**
@@ -24,3 +27,4 @@ It serves as a minimalistic utility for quick availability checks of standard se
 3. Execute the script via terminal:
    ```bash
    python port_scanner.py
+
